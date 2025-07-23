@@ -82,6 +82,26 @@ path = 'src/0020.valid-parentheses/solution.rs'
 name = 'merge-two-sorted-lists'
 path = 'src/0021.merge-two-sorted-lists/solution.rs'
 
+[[bin]]
+name = 'generate-parentheses'
+path = 'src/0022.generate-parentheses/solution.rs'
+
+[[bin]]
+name = 'merge-k-sorted-lists'
+path = 'src/0023.merge-k-sorted-lists/solution.rs'
+
+[[bin]]
+name = 'swap-nodes-in-pairs'
+path = 'src/0024.swap-nodes-in-pairs/solution.rs'
+
+[[bin]]
+name = 'reverse-nodes-in-k-group'
+path = 'src/0025.reverse-nodes-in-k-group/solution.rs'
+
+[[bin]]
+name = 'remove-duplicates-from-sorted-array'
+path = 'src/0026.remove-duplicates-from-sorted-array/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
