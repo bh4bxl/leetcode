@@ -102,6 +102,18 @@ path = 'src/0025.reverse-nodes-in-k-group/solution.rs'
 name = 'remove-duplicates-from-sorted-array'
 path = 'src/0026.remove-duplicates-from-sorted-array/solution.rs'
 
+[[bin]]
+name = 'find-first-and-last-position-of-element-in-sorted-array'
+path = 'src/0034.find-first-and-last-position-of-element-in-sorted-array/solution.rs'
+
+[[bin]]
+name = 'search-insert-position'
+path = 'src/0035.search-insert-position/solution.rs'
+
+[[bin]]
+name = 'valid-sudoku'
+path = 'src/0036.valid-sudoku/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
