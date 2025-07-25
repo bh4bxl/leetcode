@@ -103,6 +103,34 @@ name = 'remove-duplicates-from-sorted-array'
 path = 'src/0026.remove-duplicates-from-sorted-array/solution.rs'
 
 [[bin]]
+name = 'remove-element'
+path = 'src/0027.remove-element/solution.rs'
+
+[[bin]]
+name = 'find-the-index-of-the-first-occurrence-in-a-string'
+path = 'src/0028.find-the-index-of-the-first-occurrence-in-a-string/solution.rs'
+
+[[bin]]
+name = 'divide-two-integers'
+path = 'src/0029.divide-two-integers/solution.rs'
+
+[[bin]]
+name = 'substring-with-concatenation-of-all-words'
+path = 'src/0030.substring-with-concatenation-of-all-words/solution.rs'
+
+[[bin]]
+name = 'next-permutation'
+path = 'src/0031.next-permutation/solution.rs'
+
+[[bin]]
+name = 'longest-valid-parentheses'
+path = 'src/0032.longest-valid-parentheses/solution.rs'
+
+[[bin]]
+name = 'search-in-rotated-sorted-array'
+path = 'src/0033.search-in-rotated-sorted-array/solution.rs'
+
+[[bin]]
 name = 'find-first-and-last-position-of-element-in-sorted-array'
 path = 'src/0034.find-first-and-last-position-of-element-in-sorted-array/solution.rs'
 
