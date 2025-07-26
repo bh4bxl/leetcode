@@ -142,6 +142,22 @@ path = 'src/0035.search-insert-position/solution.rs'
 name = 'valid-sudoku'
 path = 'src/0036.valid-sudoku/solution.rs'
 
+[[bin]]
+name = 'sudoku-solver'
+path = 'src/0037.sudoku-solver/solution.rs'
+
+[[bin]]
+name = 'count-and-say'
+path = 'src/0038.count-and-say/solution.rs'
+
+[[bin]]
+name = 'combination-sum'
+path = 'src/0039.combination-sum/solution.rs'
+
+[[bin]]
+name = 'combination-sum-ii'
+path = 'src/0040.combination-sum-ii/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
