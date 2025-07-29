@@ -158,6 +158,46 @@ path = 'src/0039.combination-sum/solution.rs'
 name = 'combination-sum-ii'
 path = 'src/0040.combination-sum-ii/solution.rs'
 
+[[bin]]
+name = 'first-missing-positive'
+path = 'src/0041.first-missing-positive/solution.rs'
+
+[[bin]]
+name = 'trapping-rain-water'
+path = 'src/0042.trapping-rain-water/solution.rs'
+
+[[bin]]
+name = 'multiply-strings'
+path = 'src/0043.multiply-strings/solution.rs'
+
+[[bin]]
+name = 'wildcard-matching'
+path = 'src/0044.wildcard-matching/solution.rs'
+
+[[bin]]
+name = 'jump-game-ii'
+path = 'src/0045.jump-game-ii/solution.rs'
+
+[[bin]]
+name = 'permutations'
+path = 'src/0046.permutations/solution.rs'
+
+[[bin]]
+name = 'permutations-ii'
+path = 'src/0047.permutations-ii/solution.rs'
+
+[[bin]]
+name = 'rotate-image'
+path = 'src/0048.rotate-image/solution.rs'
+
+[[bin]]
+name = 'group-anagrams'
+path = 'src/0049.group-anagrams/solution.rs'
+
+[[bin]]
+name = 'powx-n'
+path = 'src/0050.powx-n/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
