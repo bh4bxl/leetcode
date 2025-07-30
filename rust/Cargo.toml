@@ -198,6 +198,26 @@ path = 'src/0049.group-anagrams/solution.rs'
 name = 'powx-n'
 path = 'src/0050.powx-n/solution.rs'
 
+[[bin]]
+name = 'n-queens'
+path = 'src/0051.n-queens/solution.rs'
+
+[[bin]]
+name = 'n-queens-ii'
+path = 'src/0052.n-queens-ii/solution.rs'
+
+[[bin]]
+name = 'maximum-subarray'
+path = 'src/0053.maximum-subarray/solution.rs'
+
+[[bin]]
+name = 'spiral-matrix'
+path = 'src/0054.spiral-matrix/solution.rs'
+
+[[bin]]
+name = 'jump-game'
+path = 'src/0055.jump-game/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
