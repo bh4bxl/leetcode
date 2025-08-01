@@ -218,6 +218,26 @@ path = 'src/0054.spiral-matrix/solution.rs'
 name = 'jump-game'
 path = 'src/0055.jump-game/solution.rs'
 
+[[bin]]
+name = 'merge-intervals'
+path = 'src/0056.merge-intervals/solution.rs'
+
+[[bin]]
+name = 'insert-interval'
+path = 'src/0057.insert-interval/solution.rs'
+
+[[bin]]
+name = 'length-of-last-word'
+path = 'src/0058.length-of-last-word/solution.rs'
+
+[[bin]]
+name = 'spiral-matrix-ii'
+path = 'src/0059.spiral-matrix-ii/solution.rs'
+
+[[bin]]
+name = 'permutation-sequence'
+path = 'src/0060.permutation-sequence/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
