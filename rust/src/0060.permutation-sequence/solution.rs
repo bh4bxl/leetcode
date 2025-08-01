@@ -26,7 +26,7 @@ impl Solution {
 
         k_m -= 1;
 
-        for i in (1..n + 1).rev() {
+        for _ in (1..n + 1).rev() {
             factorial /= nums.len() as i32;
             let group_num = (k_m / factorial) as usize;
             let num = nums.remove(group_num);
