@@ -238,6 +238,46 @@ path = 'src/0059.spiral-matrix-ii/solution.rs'
 name = 'permutation-sequence'
 path = 'src/0060.permutation-sequence/solution.rs'
 
+[[bin]]
+name = 'rotate-list'
+path = 'src/0061.rotate-list/solution.rs'
+
+[[bin]]
+name = 'unique-paths'
+path = 'src/0062.unique-paths/solution.rs'
+
+[[bin]]
+name = 'unique-paths-ii'
+path = 'src/0063.unique-paths-ii/solution.rs'
+
+[[bin]]
+name = 'minimum-path-sum'
+path = 'src/0064.minimum-path-sum/solution.rs'
+
+[[bin]]
+name = 'valid-number'
+path = 'src/0065.valid-number/solution.rs'
+
+[[bin]]
+name = 'plus-one'
+path = 'src/0066.plus-one/solution.rs'
+
+[[bin]]
+name = 'add-binary'
+path = 'src/0067.add-binary/solution.rs'
+
+[[bin]]
+name = 'text-justification'
+path = 'src/0068.text-justification/solution.rs'
+
+[[bin]]
+name = 'sqrtx'
+path = 'src/0069.sqrtx/solution.rs'
+
+[[bin]]
+name = 'climbing-stairs'
+path = 'src/0070.climbing-stairs/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
