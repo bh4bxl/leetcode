@@ -278,6 +278,46 @@ path = 'src/0069.sqrtx/solution.rs'
 name = 'climbing-stairs'
 path = 'src/0070.climbing-stairs/solution.rs'
 
+[[bin]]
+name = 'simplify-path'
+path = 'src/0071.simplify-path/solution.rs'
+
+[[bin]]
+name = 'edit-distance'
+path = 'src/0072.edit-distance/solution.rs'
+
+[[bin]]
+name = 'set-matrix-zeroes'
+path = 'src/0073.set-matrix-zeroes/solution.rs'
+
+[[bin]]
+name = 'search-a-2d-matrix'
+path = 'src/0074.search-a-2d-matrix/solution.rs'
+
+[[bin]]
+name = 'sort-colors'
+path = 'src/0075.sort-colors/solution.rs'
+
+[[bin]]
+name = 'minimum-window-substring'
+path = 'src/0076.minimum-window-substring/solution.rs'
+
+[[bin]]
+name = 'combinations'
+path = 'src/0077.combinations/solution.rs'
+
+[[bin]]
+name = 'subsets'
+path = 'src/0078.subsets/solution.rs'
+
+[[bin]]
+name = 'word-search'
+path = 'src/0079.word-search/solution.rs'
+
+[[bin]]
+name = 'remove-duplicates-from-sorted-array-ii'
+path = 'src/0080.remove-duplicates-from-sorted-array-ii/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
