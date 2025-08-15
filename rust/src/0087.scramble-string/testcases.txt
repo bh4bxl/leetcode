@@ -1,0 +1,17 @@
+input:
+"great"
+"rgeat"
+output:
+true
+
+input:
+"abcde"
+"caebd"
+output:
+false
+
+input:
+"a"
+"a"
+output:
+true

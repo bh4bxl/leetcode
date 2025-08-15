@@ -318,6 +318,46 @@ path = 'src/0079.word-search/solution.rs'
 name = 'remove-duplicates-from-sorted-array-ii'
 path = 'src/0080.remove-duplicates-from-sorted-array-ii/solution.rs'
 
+[[bin]]
+name = 'search-in-rotated-sorted-array-ii'
+path = 'src/0081.search-in-rotated-sorted-array-ii/solution.rs'
+
+[[bin]]
+name = 'remove-duplicates-from-sorted-list-ii'
+path = 'src/0082.remove-duplicates-from-sorted-list-ii/solution.rs'
+
+[[bin]]
+name = 'remove-duplicates-from-sorted-list'
+path = 'src/0083.remove-duplicates-from-sorted-list/solution.rs'
+
+[[bin]]
+name = 'largest-rectangle-in-histogram'
+path = 'src/0084.largest-rectangle-in-histogram/solution.rs'
+
+[[bin]]
+name = 'maximal-rectangle'
+path = 'src/0085.maximal-rectangle/solution.rs'
+
+[[bin]]
+name = 'partition-list'
+path = 'src/0086.partition-list/solution.rs'
+
+[[bin]]
+name = 'scramble-string'
+path = 'src/0087.scramble-string/solution.rs'
+
+[[bin]]
+name = 'merge-sorted-array'
+path = 'src/0088.merge-sorted-array/solution.rs'
+
+[[bin]]
+name = 'gray-code'
+path = 'src/0089.gray-code/solution.rs'
+
+[[bin]]
+name = 'subsets-ii'
+path = 'src/0090.subsets-ii/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
