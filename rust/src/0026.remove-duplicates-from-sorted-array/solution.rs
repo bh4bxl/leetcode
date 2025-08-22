@@ -27,7 +27,6 @@ impl Solution {
             prev = nums[i];
             nums[prev_pos] = prev;
             prev_pos += 1;
-
         }
 
         return prev_pos as i32;
@@ -37,9 +36,9 @@ impl Solution {
 // @lc code=end
 
 fn main() -> Result<()> {
-	let nums: Vec<i32> = deserialize(&read_line()?)?;
-	let ans: i32 = Solution::remove_duplicates(nums).into();
+    let mut nums: Vec<i32> = deserialize(&read_line()?)?;
+    let ans: i32 = Solution::remove_duplicates(&mut nums).into();
 
-	println!("\noutput: {}", serialize(ans)?);
-	Ok(())
+    println!("\noutput: {}", serialize(ans)?);
+    Ok(())
 }

@@ -28,7 +28,9 @@ impl Solution {
             j -= 1;
         }
 
-        if j < 0 { j = nums.len() as i32 - 1; }
+        if j < 0 {
+            j = nums.len() as i32 - 1;
+        }
 
         nums.swap(i as usize, j as usize);
 
@@ -48,10 +50,10 @@ impl Solution {
 // @lc code=end
 
 fn main() -> Result<()> {
-	let nums: Vec<i32> = deserialize(&read_line()?)?;
-	Solution::next_permutation(nums);
-	let ans: Vec<i32> = nums.into();
+    let mut nums: Vec<i32> = deserialize(&read_line()?)?;
+    Solution::next_permutation(&mut nums);
+    let ans: Vec<i32> = nums.into();
 
-	println!("\noutput: {}", serialize(ans)?);
-	Ok(())
+    println!("\noutput: {}", serialize(ans)?);
+    Ok(())
 }

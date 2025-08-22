@@ -358,6 +358,46 @@ path = 'src/0089.gray-code/solution.rs'
 name = 'subsets-ii'
 path = 'src/0090.subsets-ii/solution.rs'
 
+[[bin]]
+name = 'decode-ways'
+path = 'src/0091.decode-ways/solution.rs'
+
+[[bin]]
+name = 'reverse-linked-list-ii'
+path = 'src/0092.reverse-linked-list-ii/solution.rs'
+
+[[bin]]
+name = 'restore-ip-addresses'
+path = 'src/0093.restore-ip-addresses/solution.rs'
+
+[[bin]]
+name = 'binary-tree-inorder-traversal'
+path = 'src/0094.binary-tree-inorder-traversal/solution.rs'
+
+[[bin]]
+name = 'unique-binary-search-trees-ii'
+path = 'src/0095.unique-binary-search-trees-ii/solution.rs'
+
+[[bin]]
+name = 'unique-binary-search-trees'
+path = 'src/0096.unique-binary-search-trees/solution.rs'
+
+[[bin]]
+name = 'interleaving-string'
+path = 'src/0097.interleaving-string/solution.rs'
+
+[[bin]]
+name = 'validate-binary-search-tree'
+path = 'src/0098.validate-binary-search-tree/solution.rs'
+
+[[bin]]
+name = 'recover-binary-search-tree'
+path = 'src/0099.recover-binary-search-tree/solution.rs'
+
+[[bin]]
+name = 'same-tree'
+path = 'src/0100.same-tree/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'

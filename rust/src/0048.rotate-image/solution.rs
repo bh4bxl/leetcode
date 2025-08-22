@@ -33,10 +33,10 @@ impl Solution {
 // @lc code=end
 
 fn main() -> Result<()> {
-	let matrix: Vec<Vec<i32>> = deserialize(&read_line()?)?;
-	Solution::rotate(matrix);
-	let ans: Vec<Vec<i32>> = matrix.into();
+    let mut matrix: Vec<Vec<i32>> = deserialize(&read_line()?)?;
+    Solution::rotate(&mut matrix);
+    let ans: Vec<Vec<i32>> = matrix.into();
 
-	println!("\noutput: {}", serialize(ans)?);
-	Ok(())
+    println!("\noutput: {}", serialize(ans)?);
+    Ok(())
 }

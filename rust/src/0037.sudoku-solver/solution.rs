@@ -46,7 +46,7 @@ impl Solution {
             if board[i][col] == c {
                 return false;
             }
-            if board[row / 3 * 3 + i / 3][col / 3 * 3 + i %3] == c {
+            if board[row / 3 * 3 + i / 3][col / 3 * 3 + i % 3] == c {
                 return false;
             }
         }
@@ -57,10 +57,10 @@ impl Solution {
 // @lc code=end
 
 fn main() -> Result<()> {
-	let board: Vec<Vec<char>> = deserialize(&read_line()?)?;
-	Solution::solve_sudoku(board);
-	let ans: Vec<Vec<char>> = board.into();
+    let mut board: Vec<Vec<char>> = deserialize(&read_line()?)?;
+    Solution::solve_sudoku(&mut board);
+    let ans: Vec<Vec<char>> = board.into();
 
-	println!("\noutput: {}", serialize(ans)?);
-	Ok(())
+    println!("\noutput: {}", serialize(ans)?);
+    Ok(())
 }

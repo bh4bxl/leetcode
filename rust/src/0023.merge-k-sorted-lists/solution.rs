@@ -15,7 +15,7 @@ struct Solution;
 //   pub val: i32,
 //   pub next: Option<Box<ListNode>>
 // }
-// 
+//
 // impl ListNode {
 //   #[inline]
 //   fn new(val: i32) -> Self {
@@ -28,7 +28,7 @@ struct Solution;
 impl Solution {
     pub fn merge_two_lists(
         mut list1: Option<Box<ListNode>>,
-        mut list2: Option<Box<ListNode>>
+        mut list2: Option<Box<ListNode>>,
     ) -> Option<Box<ListNode>> {
         let mut cur = &mut list1;
 
@@ -62,9 +62,9 @@ impl Solution {
 // @lc code=end
 
 fn main() -> Result<()> {
-	let lists: Vec<LinkedList> = deserialize(&read_line()?)?;
-	let ans: LinkedList = Solution::merge_klists(lists).into();
+    let lists: Vec<LinkedList> = deserialize(&read_line()?)?;
+    let ans: LinkedList = Solution::merge_k_lists(lists).into();
 
-	println!("\noutput: {}", serialize(ans)?);
-	Ok(())
+    println!("\noutput: {}", serialize(ans)?);
+    Ok(())
 }

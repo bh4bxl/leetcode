@@ -29,10 +29,10 @@ impl Solution {
 // @lc code=end
 
 fn main() -> Result<()> {
-	let nums: Vec<i32> = deserialize(&read_line()?)?;
-	let val: i32 = deserialize(&read_line()?)?;
-	let ans: i32 = Solution::remove_element(nums, val).into();
+    let mut nums: Vec<i32> = deserialize(&read_line()?)?;
+    let val: i32 = deserialize(&read_line()?)?;
+    let ans: i32 = Solution::remove_element(&mut nums, val).into();
 
-	println!("\noutput: {}", serialize(ans)?);
-	Ok(())
+    println!("\noutput: {}", serialize(ans)?);
+    Ok(())
 }
