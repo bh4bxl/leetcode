@@ -398,6 +398,46 @@ path = 'src/0099.recover-binary-search-tree/solution.rs'
 name = 'same-tree'
 path = 'src/0100.same-tree/solution.rs'
 
+[[bin]]
+name = 'symmetric-tree'
+path = 'src/0101.symmetric-tree/solution.rs'
+
+[[bin]]
+name = 'binary-tree-level-order-traversal'
+path = 'src/0102.binary-tree-level-order-traversal/solution.rs'
+
+[[bin]]
+name = 'binary-tree-zigzag-level-order-traversal'
+path = 'src/0103.binary-tree-zigzag-level-order-traversal/solution.rs'
+
+[[bin]]
+name = 'maximum-depth-of-binary-tree'
+path = 'src/0104.maximum-depth-of-binary-tree/solution.rs'
+
+[[bin]]
+name = 'construct-binary-tree-from-preorder-and-inorder-traversal'
+path = 'src/0105.construct-binary-tree-from-preorder-and-inorder-traversal/solution.rs'
+
+[[bin]]
+name = 'construct-binary-tree-from-inorder-and-postorder-traversal'
+path = 'src/0106.construct-binary-tree-from-inorder-and-postorder-traversal/solution.rs'
+
+[[bin]]
+name = 'binary-tree-level-order-traversal-ii'
+path = 'src/0107.binary-tree-level-order-traversal-ii/solution.rs'
+
+[[bin]]
+name = 'convert-sorted-array-to-binary-search-tree'
+path = 'src/0108.convert-sorted-array-to-binary-search-tree/solution.rs'
+
+[[bin]]
+name = 'convert-sorted-list-to-binary-search-tree'
+path = 'src/0109.convert-sorted-list-to-binary-search-tree/solution.rs'
+
+[[bin]]
+name = 'balanced-binary-tree'
+path = 'src/0110.balanced-binary-tree/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
