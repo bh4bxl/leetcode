@@ -1,0 +1,11 @@
+input:
+"rabbbit"
+"rabbit"
+output:
+3
+
+input:
+"babgbag"
+"bag"
+output:
+5
