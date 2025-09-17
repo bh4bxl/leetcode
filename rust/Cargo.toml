@@ -510,6 +510,38 @@ path = 'src/0129.sum-root-to-leaf-numbers/solution.rs'
 name = 'surrounded-regions'
 path = 'src/0130.surrounded-regions/solution.rs'
 
+[[bin]]
+name = 'palindrome-partitioning'
+path = 'src/0131.palindrome-partitioning/solution.rs'
+
+[[bin]]
+name = 'palindrome-partitioning-ii'
+path = 'src/0132.palindrome-partitioning-ii/solution.rs'
+
+[[bin]]
+name = 'gas-station'
+path = 'src/0134.gas-station/solution.rs'
+
+[[bin]]
+name = 'candy'
+path = 'src/0135.candy/solution.rs'
+
+[[bin]]
+name = 'single-number'
+path = 'src/0136.single-number/solution.rs'
+
+[[bin]]
+name = 'single-number-ii'
+path = 'src/0137.single-number-ii/solution.rs'
+
+[[bin]]
+name = 'word-break'
+path = 'src/0139.word-break/solution.rs'
+
+[[bin]]
+name = 'word-break-ii'
+path = 'src/0140.word-break-ii/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'

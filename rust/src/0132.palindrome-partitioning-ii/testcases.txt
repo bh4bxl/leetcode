@@ -1,0 +1,14 @@
+input:
+"aab"
+output:
+1
+
+input:
+"a"
+output:
+0
+
+input:
+"ab"
+output:
+1
