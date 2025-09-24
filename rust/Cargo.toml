@@ -542,6 +542,38 @@ path = 'src/0139.word-break/solution.rs'
 name = 'word-break-ii'
 path = 'src/0140.word-break-ii/solution.rs'
 
+[[bin]]
+name = 'reorder-list'
+path = 'src/0143.reorder-list/solution.rs'
+
+[[bin]]
+name = 'binary-tree-preorder-traversal'
+path = 'src/0144.binary-tree-preorder-traversal/solution.rs'
+
+[[bin]]
+name = 'binary-tree-postorder-traversal'
+path = 'src/0145.binary-tree-postorder-traversal/solution.rs'
+
+[[bin]]
+name = 'lru-cache'
+path = 'src/0146.lru-cache/solution.rs'
+
+[[bin]]
+name = 'insertion-sort-list'
+path = 'src/0147.insertion-sort-list/solution.rs'
+
+[[bin]]
+name = 'sort-list'
+path = 'src/0148.sort-list/solution.rs'
+
+[[bin]]
+name = 'max-points-on-a-line'
+path = 'src/0149.max-points-on-a-line/solution.rs'
+
+[[bin]]
+name = 'evaluate-reverse-polish-notation'
+path = 'src/0150.evaluate-reverse-polish-notation/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'

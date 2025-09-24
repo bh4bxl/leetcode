@@ -2,8 +2,6 @@
 // leetgo: 1.4.15
 // https://leetcode.com/problems/palindrome-partitioning/
 
-use std::{arch::aarch64::vget_low_u8, path};
-
 use anyhow::Result;
 use leetgo_rs::*;
 
