@@ -594,6 +594,34 @@ path = 'src/0154.find-minimum-in-rotated-sorted-array-ii/solution.rs'
 name = 'min-stack'
 path = 'src/0155.min-stack/solution.rs'
 
+[[bin]]
+name = 'find-peak-element'
+path = 'src/0162.find-peak-element/solution.rs'
+
+[[bin]]
+name = 'maximum-gap'
+path = 'src/0164.maximum-gap/solution.rs'
+
+[[bin]]
+name = 'compare-version-numbers'
+path = 'src/0165.compare-version-numbers/solution.rs'
+
+[[bin]]
+name = 'fraction-to-recurring-decimal'
+path = 'src/0166.fraction-to-recurring-decimal/solution.rs'
+
+[[bin]]
+name = 'two-sum-ii-input-array-is-sorted'
+path = 'src/0167.two-sum-ii-input-array-is-sorted/solution.rs'
+
+[[bin]]
+name = 'excel-sheet-column-title'
+path = 'src/0168.excel-sheet-column-title/solution.rs'
+
+[[bin]]
+name = 'majority-element'
+path = 'src/0169.majority-element/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
