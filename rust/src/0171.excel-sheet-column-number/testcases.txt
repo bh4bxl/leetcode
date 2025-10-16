@@ -1,0 +1,14 @@
+input:
+"A"
+output:
+1
+
+input:
+"AB"
+output:
+28
+
+input:
+"ZY"
+output:
+701

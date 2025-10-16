@@ -1,0 +1,14 @@
+input:
+"AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"
+output:
+["AAAAACCCCC","CCCCCAAAAA"]
+
+input:
+"AAAAAAAAAAAAA"
+output:
+["AAAAAAAAAA"]
+
+input:
+"A"
+output:
+[]
