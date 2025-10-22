@@ -658,6 +658,62 @@ path = 'src/0189.rotate-array/solution.rs'
 name = 'reverse-bits'
 path = 'src/0190.reverse-bits/solution.rs'
 
+[[bin]]
+name = 'number-of-1-bits'
+path = 'src/0191.number-of-1-bits/solution.rs'
+
+[[bin]]
+name = 'house-robber'
+path = 'src/0198.house-robber/solution.rs'
+
+[[bin]]
+name = 'binary-tree-right-side-view'
+path = 'src/0199.binary-tree-right-side-view/solution.rs'
+
+[[bin]]
+name = 'number-of-islands'
+path = 'src/0200.number-of-islands/solution.rs'
+
+[[bin]]
+name = 'bitwise-and-of-numbers-range'
+path = 'src/0201.bitwise-and-of-numbers-range/solution.rs'
+
+[[bin]]
+name = 'happy-number'
+path = 'src/0202.happy-number/solution.rs'
+
+[[bin]]
+name = 'remove-linked-list-elements'
+path = 'src/0203.remove-linked-list-elements/solution.rs'
+
+[[bin]]
+name = 'count-primes'
+path = 'src/0204.count-primes/solution.rs'
+
+[[bin]]
+name = 'isomorphic-strings'
+path = 'src/0205.isomorphic-strings/solution.rs'
+
+[[bin]]
+name = 'reverse-linked-list'
+path = 'src/0206.reverse-linked-list/solution.rs'
+
+[[bin]]
+name = 'course-schedule'
+path = 'src/0207.course-schedule/solution.rs'
+
+[[bin]]
+name = 'implement-trie-prefix-tree'
+path = 'src/0208.implement-trie-prefix-tree/solution.rs'
+
+[[bin]]
+name = 'minimum-size-subarray-sum'
+path = 'src/0209.minimum-size-subarray-sum/solution.rs'
+
+[[bin]]
+name = 'course-schedule-ii'
+path = 'src/0210.course-schedule-ii/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
