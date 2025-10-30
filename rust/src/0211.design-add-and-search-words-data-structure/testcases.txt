@@ -1,0 +1,5 @@
+input:
+["WordDictionary","addWord","addWord","addWord","search","search","search","search"]
+[[],["bad"],["dad"],["mad"],["pad"],["bad"],[".ad"],["b.."]]
+output:
+[null,null,null,null,false,true,true,true]

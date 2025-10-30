@@ -714,6 +714,46 @@ path = 'src/0209.minimum-size-subarray-sum/solution.rs'
 name = 'course-schedule-ii'
 path = 'src/0210.course-schedule-ii/solution.rs'
 
+[[bin]]
+name = 'design-add-and-search-words-data-structure'
+path = 'src/0211.design-add-and-search-words-data-structure/solution.rs'
+
+[[bin]]
+name = 'word-search-ii'
+path = 'src/0212.word-search-ii/solution.rs'
+
+[[bin]]
+name = 'house-robber-ii'
+path = 'src/0213.house-robber-ii/solution.rs'
+
+[[bin]]
+name = 'shortest-palindrome'
+path = 'src/0214.shortest-palindrome/solution.rs'
+
+[[bin]]
+name = 'kth-largest-element-in-an-array'
+path = 'src/0215.kth-largest-element-in-an-array/solution.rs'
+
+[[bin]]
+name = 'combination-sum-iii'
+path = 'src/0216.combination-sum-iii/solution.rs'
+
+[[bin]]
+name = 'contains-duplicate'
+path = 'src/0217.contains-duplicate/solution.rs'
+
+[[bin]]
+name = 'the-skyline-problem'
+path = 'src/0218.the-skyline-problem/solution.rs'
+
+[[bin]]
+name = 'contains-duplicate-ii'
+path = 'src/0219.contains-duplicate-ii/solution.rs'
+
+[[bin]]
+name = 'contains-duplicate-iii'
+path = 'src/0220.contains-duplicate-iii/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
