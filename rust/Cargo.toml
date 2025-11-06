@@ -754,6 +754,46 @@ path = 'src/0219.contains-duplicate-ii/solution.rs'
 name = 'contains-duplicate-iii'
 path = 'src/0220.contains-duplicate-iii/solution.rs'
 
+[[bin]]
+name = 'maximal-square'
+path = 'src/0221.maximal-square/solution.rs'
+
+[[bin]]
+name = 'count-complete-tree-nodes'
+path = 'src/0222.count-complete-tree-nodes/solution.rs'
+
+[[bin]]
+name = 'rectangle-area'
+path = 'src/0223.rectangle-area/solution.rs'
+
+[[bin]]
+name = 'basic-calculator'
+path = 'src/0224.basic-calculator/solution.rs'
+
+[[bin]]
+name = 'implement-stack-using-queues'
+path = 'src/0225.implement-stack-using-queues/solution.rs'
+
+[[bin]]
+name = 'invert-binary-tree'
+path = 'src/0226.invert-binary-tree/solution.rs'
+
+[[bin]]
+name = 'basic-calculator-ii'
+path = 'src/0227.basic-calculator-ii/solution.rs'
+
+[[bin]]
+name = 'summary-ranges'
+path = 'src/0228.summary-ranges/solution.rs'
+
+[[bin]]
+name = 'majority-element-ii'
+path = 'src/0229.majority-element-ii/solution.rs'
+
+[[bin]]
+name = 'kth-smallest-element-in-a-bst'
+path = 'src/0230.kth-smallest-element-in-a-bst/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
