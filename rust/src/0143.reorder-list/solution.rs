@@ -41,26 +41,24 @@ impl Solution {
         let mut tail = &mut dummy;
 
         while i <= j {
-            unsafe {
-                if i == j {
-                    tail.next = Some(Box::new(ListNode {
-                        val: list[i],
-                        next: None,
-                    }));
-                    break;
-                }
+            if i == j {
                 tail.next = Some(Box::new(ListNode {
                     val: list[i],
                     next: None,
                 }));
-                tail = tail.next.as_mut().unwrap();
-
-                tail.next = Some(Box::new(ListNode {
-                    val: list[j],
-                    next: None,
-                }));
-                tail = tail.next.as_mut().unwrap();
+                break;
             }
+            tail.next = Some(Box::new(ListNode {
+                val: list[i],
+                next: None,
+            }));
+            tail = tail.next.as_mut().unwrap();
+
+            tail.next = Some(Box::new(ListNode {
+                val: list[j],
+                next: None,
+            }));
+            tail = tail.next.as_mut().unwrap();
             i += 1;
             j = j.saturating_sub(1);
         }
