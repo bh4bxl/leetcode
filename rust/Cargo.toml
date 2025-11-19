@@ -830,6 +830,38 @@ path = 'src/0239.sliding-window-maximum/solution.rs'
 name = 'search-a-2d-matrix-ii'
 path = 'src/0240.search-a-2d-matrix-ii/solution.rs'
 
+[[bin]]
+name = 'different-ways-to-add-parentheses'
+path = 'src/0241.different-ways-to-add-parentheses/solution.rs'
+
+[[bin]]
+name = 'valid-anagram'
+path = 'src/0242.valid-anagram/solution.rs'
+
+[[bin]]
+name = 'binary-tree-paths'
+path = 'src/0257.binary-tree-paths/solution.rs'
+
+[[bin]]
+name = 'add-digits'
+path = 'src/0258.add-digits/solution.rs'
+
+[[bin]]
+name = 'single-number-iii'
+path = 'src/0260.single-number-iii/solution.rs'
+
+[[bin]]
+name = 'ugly-number'
+path = 'src/0263.ugly-number/solution.rs'
+
+[[bin]]
+name = 'ugly-number-ii'
+path = 'src/0264.ugly-number-ii/solution.rs'
+
+[[bin]]
+name = 'missing-number'
+path = 'src/0268.missing-number/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'

@@ -1,0 +1,9 @@
+input:
+10
+output:
+12
+
+input:
+1
+output:
+1
