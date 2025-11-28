@@ -862,6 +862,46 @@ path = 'src/0264.ugly-number-ii/solution.rs'
 name = 'missing-number'
 path = 'src/0268.missing-number/solution.rs'
 
+[[bin]]
+name = 'integer-to-english-words'
+path = 'src/0273.integer-to-english-words/solution.rs'
+
+[[bin]]
+name = 'h-index'
+path = 'src/0274.h-index/solution.rs'
+
+[[bin]]
+name = 'h-index-ii'
+path = 'src/0275.h-index-ii/solution.rs'
+
+[[bin]]
+name = 'first-bad-version'
+path = 'src/0278.first-bad-version/solution.rs'
+
+[[bin]]
+name = 'perfect-squares'
+path = 'src/0279.perfect-squares/solution.rs'
+
+[[bin]]
+name = 'expression-add-operators'
+path = 'src/0282.expression-add-operators/solution.rs'
+
+[[bin]]
+name = 'move-zeroes'
+path = 'src/0283.move-zeroes/solution.rs'
+
+[[bin]]
+name = 'find-the-duplicate-number'
+path = 'src/0287.find-the-duplicate-number/solution.rs'
+
+[[bin]]
+name = 'game-of-life'
+path = 'src/0289.game-of-life/solution.rs'
+
+[[bin]]
+name = 'word-pattern'
+path = 'src/0290.word-pattern/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
