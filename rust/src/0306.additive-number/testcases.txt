@@ -1,0 +1,9 @@
+input:
+"112358"
+output:
+true
+
+input:
+"199100199"
+output:
+true
