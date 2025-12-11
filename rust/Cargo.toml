@@ -950,6 +950,42 @@ path = 'src/0309.best-time-to-buy-and-sell-stock-with-cooldown/solution.rs'
 name = 'minimum-height-trees'
 path = 'src/0310.minimum-height-trees/solution.rs'
 
+[[bin]]
+name = 'burst-balloons'
+path = 'src/0312.burst-balloons/solution.rs'
+
+[[bin]]
+name = 'super-ugly-number'
+path = 'src/0313.super-ugly-number/solution.rs'
+
+[[bin]]
+name = 'count-of-smaller-numbers-after-self'
+path = 'src/0315.count-of-smaller-numbers-after-self/solution.rs'
+
+[[bin]]
+name = 'remove-duplicate-letters'
+path = 'src/0316.remove-duplicate-letters/solution.rs'
+
+[[bin]]
+name = 'maximum-product-of-word-lengths'
+path = 'src/0318.maximum-product-of-word-lengths/solution.rs'
+
+[[bin]]
+name = 'bulb-switcher'
+path = 'src/0319.bulb-switcher/solution.rs'
+
+[[bin]]
+name = 'create-maximum-number'
+path = 'src/0321.create-maximum-number/solution.rs'
+
+[[bin]]
+name = 'coin-change'
+path = 'src/0322.coin-change/solution.rs'
+
+[[bin]]
+name = 'wiggle-sort-ii'
+path = 'src/0324.wiggle-sort-ii/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
