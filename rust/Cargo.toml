@@ -986,6 +986,42 @@ path = 'src/0322.coin-change/solution.rs'
 name = 'wiggle-sort-ii'
 path = 'src/0324.wiggle-sort-ii/solution.rs'
 
+[[bin]]
+name = 'power-of-three'
+path = 'src/0326.power-of-three/solution.rs'
+
+[[bin]]
+name = 'count-of-range-sum'
+path = 'src/0327.count-of-range-sum/solution.rs'
+
+[[bin]]
+name = 'odd-even-linked-list'
+path = 'src/0328.odd-even-linked-list/solution.rs'
+
+[[bin]]
+name = 'longest-increasing-path-in-a-matrix'
+path = 'src/0329.longest-increasing-path-in-a-matrix/solution.rs'
+
+[[bin]]
+name = 'patching-array'
+path = 'src/0330.patching-array/solution.rs'
+
+[[bin]]
+name = 'verify-preorder-serialization-of-a-binary-tree'
+path = 'src/0331.verify-preorder-serialization-of-a-binary-tree/solution.rs'
+
+[[bin]]
+name = 'reconstruct-itinerary'
+path = 'src/0332.reconstruct-itinerary/solution.rs'
+
+[[bin]]
+name = 'increasing-triplet-subsequence'
+path = 'src/0334.increasing-triplet-subsequence/solution.rs'
+
+[[bin]]
+name = 'self-crossing'
+path = 'src/0335.self-crossing/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
