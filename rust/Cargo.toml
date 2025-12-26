@@ -1022,6 +1022,38 @@ path = 'src/0334.increasing-triplet-subsequence/solution.rs'
 name = 'self-crossing'
 path = 'src/0335.self-crossing/solution.rs'
 
+[[bin]]
+name = 'palindrome-pairs'
+path = 'src/0336.palindrome-pairs/solution.rs'
+
+[[bin]]
+name = 'house-robber-iii'
+path = 'src/0337.house-robber-iii/solution.rs'
+
+[[bin]]
+name = 'counting-bits'
+path = 'src/0338.counting-bits/solution.rs'
+
+[[bin]]
+name = 'flatten-nested-list-iterator'
+path = 'src/0341.flatten-nested-list-iterator/solution.rs'
+
+[[bin]]
+name = 'power-of-four'
+path = 'src/0342.power-of-four/solution.rs'
+
+[[bin]]
+name = 'integer-break'
+path = 'src/0343.integer-break/solution.rs'
+
+[[bin]]
+name = 'reverse-string'
+path = 'src/0344.reverse-string/solution.rs'
+
+[[bin]]
+name = 'reverse-vowels-of-a-string'
+path = 'src/0345.reverse-vowels-of-a-string/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'

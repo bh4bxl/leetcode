@@ -1,0 +1,9 @@
+input:
+"IceCreAm"
+output:
+"AceCreIm"
+
+input:
+"leetcode"
+output:
+"leotcede"
