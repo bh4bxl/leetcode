@@ -1054,6 +1054,30 @@ path = 'src/0344.reverse-string/solution.rs'
 name = 'reverse-vowels-of-a-string'
 path = 'src/0345.reverse-vowels-of-a-string/solution.rs'
 
+[[bin]]
+name = 'top-k-frequent-elements'
+path = 'src/0347.top-k-frequent-elements/solution.rs'
+
+[[bin]]
+name = 'intersection-of-two-arrays'
+path = 'src/0349.intersection-of-two-arrays/solution.rs'
+
+[[bin]]
+name = 'intersection-of-two-arrays-ii'
+path = 'src/0350.intersection-of-two-arrays-ii/solution.rs'
+
+[[bin]]
+name = 'data-stream-as-disjoint-intervals'
+path = 'src/0352.data-stream-as-disjoint-intervals/solution.rs'
+
+[[bin]]
+name = 'russian-doll-envelopes'
+path = 'src/0354.russian-doll-envelopes/solution.rs'
+
+[[bin]]
+name = 'design-twitter'
+path = 'src/0355.design-twitter/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
