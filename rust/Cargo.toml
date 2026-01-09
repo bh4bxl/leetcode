@@ -1078,6 +1078,26 @@ path = 'src/0354.russian-doll-envelopes/solution.rs'
 name = 'design-twitter'
 path = 'src/0355.design-twitter/solution.rs'
 
+[[bin]]
+name = 'count-numbers-with-unique-digits'
+path = 'src/0357.count-numbers-with-unique-digits/solution.rs'
+
+[[bin]]
+name = 'max-sum-of-rectangle-no-larger-than-k'
+path = 'src/0363.max-sum-of-rectangle-no-larger-than-k/solution.rs'
+
+[[bin]]
+name = 'water-and-jug-problem'
+path = 'src/0365.water-and-jug-problem/solution.rs'
+
+[[bin]]
+name = 'valid-perfect-square'
+path = 'src/0367.valid-perfect-square/solution.rs'
+
+[[bin]]
+name = 'largest-divisible-subset'
+path = 'src/0368.largest-divisible-subset/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
