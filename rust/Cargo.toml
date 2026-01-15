@@ -1098,6 +1098,42 @@ path = 'src/0367.valid-perfect-square/solution.rs'
 name = 'largest-divisible-subset'
 path = 'src/0368.largest-divisible-subset/solution.rs'
 
+[[bin]]
+name = 'sum-of-two-integers'
+path = 'src/0371.sum-of-two-integers/solution.rs'
+
+[[bin]]
+name = 'super-pow'
+path = 'src/0372.super-pow/solution.rs'
+
+[[bin]]
+name = 'find-k-pairs-with-smallest-sums'
+path = 'src/0373.find-k-pairs-with-smallest-sums/solution.rs'
+
+[[bin]]
+name = 'guess-number-higher-or-lower'
+path = 'src/0374.guess-number-higher-or-lower/solution.rs'
+
+[[bin]]
+name = 'guess-number-higher-or-lower-ii'
+path = 'src/0375.guess-number-higher-or-lower-ii/solution.rs'
+
+[[bin]]
+name = 'wiggle-subsequence'
+path = 'src/0376.wiggle-subsequence/solution.rs'
+
+[[bin]]
+name = 'combination-sum-iv'
+path = 'src/0377.combination-sum-iv/solution.rs'
+
+[[bin]]
+name = 'kth-smallest-element-in-a-sorted-matrix'
+path = 'src/0378.kth-smallest-element-in-a-sorted-matrix/solution.rs'
+
+[[bin]]
+name = 'insert-delete-getrandom-o1'
+path = 'src/0380.insert-delete-getrandom-o1/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
