@@ -1,0 +1,11 @@
+input:
+["RandomizedCollection","insert","insert","insert","getRandom","remove","getRandom"]
+[[],[1],[1],[2],[],[1],[]]
+output:
+[null, true, false, true, 2, true, 1]
+
+input:
+["RandomizedCollection","insert","insert","insert","insert","insert","remove","remove","remove","remove"]
+[[],[4],[3],[4],[2],[4],[4],[3],[4],[4]]
+output:
+[null,true,true,false,true,false,true,true,true,true]

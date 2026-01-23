@@ -1134,9 +1134,50 @@ path = 'src/0378.kth-smallest-element-in-a-sorted-matrix/solution.rs'
 name = 'insert-delete-getrandom-o1'
 path = 'src/0380.insert-delete-getrandom-o1/solution.rs'
 
+[[bin]]
+name = 'insert-delete-getrandom-o1-duplicates-allowed'
+path = 'src/0381.insert-delete-getrandom-o1-duplicates-allowed/solution.rs'
+
+[[bin]]
+name = 'linked-list-random-node'
+path = 'src/0382.linked-list-random-node/solution.rs'
+
+[[bin]]
+name = 'ransom-note'
+path = 'src/0383.ransom-note/solution.rs'
+
+[[bin]]
+name = 'shuffle-an-array'
+path = 'src/0384.shuffle-an-array/solution.rs'
+
+[[bin]]
+name = 'mini-parser'
+path = 'src/0385.mini-parser/solution.rs'
+
+[[bin]]
+name = 'lexicographical-numbers'
+path = 'src/0386.lexicographical-numbers/solution.rs'
+
+[[bin]]
+name = 'first-unique-character-in-a-string'
+path = 'src/0387.first-unique-character-in-a-string/solution.rs'
+
+[[bin]]
+name = 'longest-absolute-file-path'
+path = 'src/0388.longest-absolute-file-path/solution.rs'
+
+[[bin]]
+name = 'find-the-difference'
+path = 'src/0389.find-the-difference/solution.rs'
+
+[[bin]]
+name = 'elimination-game'
+path = 'src/0390.elimination-game/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
+rand = '0.9.2'
 serde = '1.0.196'
 serde_json = '1.0.113'
 

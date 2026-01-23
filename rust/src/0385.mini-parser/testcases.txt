@@ -1,0 +1,9 @@
+input:
+"324"
+output:
+
+
+input:
+"[123,[456,[789]]]"
+output:
+
