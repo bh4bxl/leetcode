@@ -1174,6 +1174,46 @@ path = 'src/0389.find-the-difference/solution.rs'
 name = 'elimination-game'
 path = 'src/0390.elimination-game/solution.rs'
 
+[[bin]]
+name = 'perfect-rectangle'
+path = 'src/0391.perfect-rectangle/solution.rs'
+
+[[bin]]
+name = 'is-subsequence'
+path = 'src/0392.is-subsequence/solution.rs'
+
+[[bin]]
+name = 'utf-8-validation'
+path = 'src/0393.utf-8-validation/solution.rs'
+
+[[bin]]
+name = 'decode-string'
+path = 'src/0394.decode-string/solution.rs'
+
+[[bin]]
+name = 'longest-substring-with-at-least-k-repeating-characters'
+path = 'src/0395.longest-substring-with-at-least-k-repeating-characters/solution.rs'
+
+[[bin]]
+name = 'rotate-function'
+path = 'src/0396.rotate-function/solution.rs'
+
+[[bin]]
+name = 'integer-replacement'
+path = 'src/0397.integer-replacement/solution.rs'
+
+[[bin]]
+name = 'random-pick-index'
+path = 'src/0398.random-pick-index/solution.rs'
+
+[[bin]]
+name = 'evaluate-division'
+path = 'src/0399.evaluate-division/solution.rs'
+
+[[bin]]
+name = 'nth-digit'
+path = 'src/0400.nth-digit/solution.rs'
+
 [dependencies]
 anyhow = '1.0.79'
 leetgo-rs = '0.2.1'
